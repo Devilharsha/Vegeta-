@@ -18,9 +18,9 @@ class Config(object):
     API_ID = 2091894  # integer value, dont use ""
     API_HASH = "925ce96bd585205d6dac1b35e8e26a12"
     TOKEN = "1616584987:AAGiKBL-7Q4mihWH03AGtyBjfDNdp23zJVc"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 769830161 # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "CtzFamily"
-    SUPPORT_CHAT = 'Vegetasupport'  #Your own group for support, do not add the @
+    OWNER_ID = 1615607413 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "MXNITRO"
+    SUPPORT_CHAT = 'SENKUBOTS'  #Your own group for support, do not add the @
     JOIN_LOGGER = -1360279453  #Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = -1360279453  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
