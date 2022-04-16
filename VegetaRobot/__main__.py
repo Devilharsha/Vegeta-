@@ -79,52 +79,52 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[SAIYAN VEGETA](https://telegra.ph/file/5c24e42b677e7e8ec46b2.jpg)』
+ ──『[𝐍𝐚𝐤𝐢𝐫𝐢 𝐀𝐲𝐚𝐦𝐚](https://telegra.ph//file/d40ad7c897662820fdc7c.jpg)』
 
 Hey User!!✋
-𝐈 Am *Prince Vegeta* Add 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐈 𝐖𝐢𝐥𝐥 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 𝐄𝐯𝐢𝐥𝐬 𝐖𝐢𝐭𝐡 𝐌𝐲 Powers...\n
+𝐈 Am *𝐍𝐚𝐤𝐢𝐫𝐢 𝐀𝐲𝐚𝐦𝐚* Add 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐈 𝐖𝐢𝐥𝐥 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 𝐄𝐯𝐢𝐥𝐬 𝐖𝐢𝐭𝐡 𝐌𝐲 Powers...\n
 *JOIN OFFICIAL* -
-[CHANNEL](t.me/pegasusUpdates) - [SUPPORT](t.me/pegasusSupportChat)\n
+[CHANNEL](t.me/SENKUBOTS) - [SUPPORT](t.me/SENKUCHAT)\n
 *SEE POWER HIT - /help*
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
 PMSTART_CHAT = (
-    "[ I defect you friza.... Haaa haaa!!!](https://telegra.ph/file/e3562d9105926983715d9.mp4)",
-    "[I'm Prince Vegeta I Hope Your Planets](https://telegra.ph/file/9aed3b24431552db6d87d.jpg)",
-    "[Dont Teach My Family 🔥](https://telegra.ph/file/bd5f26483bae7d400ec7e.jpg)",
-    "[kaaaameeeee kaaaameee boommmm!!!!](https://telegra.ph/file/adfffdc36ff4303eb7523.jpg)", )
+    "[ I defect you friza.... Haaa haaa!!!](https://telegra.ph//file/eaa6f29e0afd6593e5da9.jpg)",
+    "[I'm 𝐍𝐚𝐤𝐢𝐫𝐢 𝐀𝐲𝐚𝐦𝐚I Hope Your Planets](https://telegra.ph//file/04ec70dec0b3c0e791c8f.jpg)",
+    "[Dont Teach My Family 🔥](https://telegra.ph//file/80a759284e4222f55ce60.mp4)",
+    "[kaaaameeeee kaaaameee boommmm!!!!](https://telegra.ph//file/8db903cdd51dfd65fda6f.jpg)", )
 
 buttons = [
     [
         InlineKeyboardButton(
-                            text="☑ Add Vegeta to Group ☑",
-                            url="t.me/VegetaRobot?startgroup=true"),
+                            text="🥰 Add 𝐍𝐚𝐤𝐢𝐫𝐢 𝐀𝐲𝐚𝐦𝐚 to Group 🥰",
+                            url="t.me/Nakiri_Ayame_PROBOT?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="✧ Network", url="t.me/pegasusXteam"),
-                       InlineKeyboardButton(text="✧ Logs", url="t.me/pegasusLogs"),
+                       InlineKeyboardButton(text="💖my master💖", url="t.me/pegasusXteam"),
+                       InlineKeyboardButton(text="💗logs💗", url="t.me/pegasusLogs"),
                      ],
                     [                  
                        InlineKeyboardButton(
-                             text="✧ Support",
+                             text="💝Support💝",
                              url=f"https://t.me/{SUPPORT_CHAT}"),
                        InlineKeyboardButton(
-                             text="✧ Updates",
+                             text="💞Updates💞",
                              url=f"https://t.me/{UPDATES_CHANNEL}"
          ),
     ],
 ] 
 
 HELP_STRINGS = """
-Hey there, I'm *Vegeta*!
+Hey there, I'm *𝐍𝐚𝐤𝐢𝐫𝐢 𝐀𝐲𝐚𝐦𝐚 *!
 To make me functional, make sure that i have enough rights in your group.
 Helpful commands:
 - /start: Starts me! You've probably already used this.
 - /help: Sends this message; I'll tell you more about myself!
 - /donate: Gives you info on how to support me and my creator.
-If you want to report bugs or have any questions on how to use me then feel free to reach out: @VegetaSupport.
-All commands can be used with the following: [(/),(!),(?),(.),(~)](https://telegra.ph/file/561fa547f3c4940c95ddf.jpg)
+If you want to report bugs or have any questions on how to use me then feel free to reach out: @SENKUCHAT.
+All commands can be used with the following: [(/),(!),(?),(.),(~)](https://telegra.ph//file/8db903cdd51dfd65fda6f.jpg)
 List of all the Modules:
 """.format(
     dispatcher.bot.first_name,
@@ -132,15 +132,15 @@ List of all the Modules:
 )
 
 HELP_MSG = "Click the button below to get help manu in your pm."
-DONATE_STRING = """Contact to **@PegasusXrobot**"""
-HELP_IMG= "https://telegra.ph/file/9d2c6e3b28afe7619856e.jpg"
-GROUPSTART_IMG= "https://telegra.ph/file/aac824153c53d30e7abb4.mp4"
+DONATE_STRING = """Contact to **@MXNITRO**"""
+HELP_IMG= "https://telegra.ph//file/6b36cfbdac86f8cd8b0c6.jpg"
+GROUPSTART_IMG= "https://telegra.ph//file/ca076d402237cb92740ff.jpg"
 
-PM_IMG = ( "https://telegra.ph/file/9d2c6e3b28afe7619856e.jpg",
-           "https://telegra.ph/file/9aed3b24431552db6d87d.jpg",
-           "https://telegra.ph/file/0f8643d86be3f82dc21be.jpg",
-           "https://telegra.ph/file/b191b0482d7a058dc0141.jpg",
-           "https://telegra.ph/file/5c24e42b677e7e8ec46b2.jpg", )
+PM_IMG = ( "https://telegra.ph//file/7b1de36b272af501203dd.jpg",
+           "https://telegra.ph//file/ca076d402237cb92740ff.jpg",
+           "https://telegra.ph//file/6b36cfbdac86f8cd8b0c6.jpg",
+           "https://telegra.ph//file/eaa6f29e0afd6593e5da9.jpg",
+           "https://telegra.ph//file/04ec70dec0b3c0e791c8f.jpg", )
 
 
 IMPORTED = {}
@@ -257,15 +257,15 @@ def start(update: Update, context: CallbackContext):
     else:
         first_name = update.effective_user.first_name
         update.effective_message.reply_video(
-            GROUPSTART_IMG, caption= "*hey {},*\n*Super Saiyan here*\n*Power lavel time* : {} ".format(
+            GROUPSTART_IMG, caption= "*hey {},*\n*NAKIRI AYAME here*\n*Power lavel time* : {} ".format(
              first_name,uptime
             ),
             parse_mode=ParseMode.MARKDOWN,
         reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="✧ Support ", url=f"https://telegram.dog/{SUPPORT_CHAT}"),
-                  InlineKeyboardButton(text="✧ Updates ", url=f"t.me/VegetaUpdates"),
+                  InlineKeyboardButton(text="💞Support💞", url=f"https://telegram.dog/{SUPPORT_CHAT}"),
+                  InlineKeyboardButton(text="💗Updates💗", url=f"t.me/SENKUBOTS"),
                   ]
                 ]
             ),
@@ -344,7 +344,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "Powered by @UnitedSupport\nHere is the help for the *{}* module:\n".format(
+                "Powered by @SENKUBOTS\nHere is the help for the *{}* module:\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -650,7 +650,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 1610284626 and DONATION_LINK:
+        if OWNER_ID != 1615607413 and DONATION_LINK:
             update.effective_message.reply_text(
                 "You can also donate to the person currently running me "
                 "[here]({})".format(DONATION_LINK),
@@ -700,7 +700,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}","[SUPER SAIYAN VEGETA IS BACK](https://telegra.ph/file/d3db0babad0d1729c5f59.jpg)", parse_mode=ParseMode.MARKDOWN) 
+            dispatcher.bot.sendMessage(f"SENKUCHAT","[𝐍𝐚𝐤𝐢𝐫𝐢 𝐀𝐲𝐚𝐦𝐚 𝙄𝙨 𝙗𝙖𝙘𝙠](https://telegra.ph//file/eaa6f29e0afd6593e5da9.jpg)", parse_mode=ParseMode.MARKDOWN) 
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!",
