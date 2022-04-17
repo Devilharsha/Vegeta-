@@ -41,7 +41,7 @@ class ChatMembers(BASE):
         ForeignKey("chats.chat_id", onupdate="CASCADE", ondelete="CASCADE"),
         nullable=False)
     user = Column(
-        Integer,
+        BigInteger,
         ForeignKey("users.user_id", onupdate="CASCADE", ondelete="CASCADE"),
         nullable=False)
     __table_args__ = (UniqueConstraint('chat', 'user',
